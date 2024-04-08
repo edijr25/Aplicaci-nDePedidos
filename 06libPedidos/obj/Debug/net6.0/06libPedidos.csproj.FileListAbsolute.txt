@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\06AplicaciónPedidos\06libPedidos\bin\Debug\net6.0\06libPedidos.deps.json
+C:\Users\admin\source\repos\06AplicaciónPedidos\06libPedidos\bin\Debug\net6.0\06libPedidos.dll
+C:\Users\admin\source\repos\06AplicaciónPedidos\06libPedidos\bin\Debug\net6.0\06libPedidos.pdb
+C:\Users\admin\source\repos\06AplicaciónPedidos\06libPedidos\obj\Debug\net6.0\06libPedidos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\06AplicaciónPedidos\06libPedidos\obj\Debug\net6.0\06libPedidos.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\06AplicaciónPedidos\06libPedidos\obj\Debug\net6.0\06libPedidos.AssemblyInfo.cs
+C:\Users\admin\source\repos\06AplicaciónPedidos\06libPedidos\obj\Debug\net6.0\06libPedidos.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\06AplicaciónPedidos\06libPedidos\obj\Debug\net6.0\06libPedidos.dll
+C:\Users\admin\source\repos\06AplicaciónPedidos\06libPedidos\obj\Debug\net6.0\refint\06libPedidos.dll
+C:\Users\admin\source\repos\06AplicaciónPedidos\06libPedidos\obj\Debug\net6.0\06libPedidos.pdb
+C:\Users\admin\source\repos\06AplicaciónPedidos\06libPedidos\obj\Debug\net6.0\ref\06libPedidos.dll

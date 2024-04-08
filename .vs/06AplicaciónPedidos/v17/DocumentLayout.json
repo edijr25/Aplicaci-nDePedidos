@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06libpedidos\\classrepositorioarchivosproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|solutionrelative:06libpedidos\\classrepositorioarchivosproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B003D37-9370-4E1C-8EA6-2B22D5177D9B}|06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06aplicaci\u00F3npedidos\\funcionesprincipales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B003D37-9370-4E1C-8EA6-2B22D5177D9B}|06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos.csproj|solutionrelative:06aplicaci\u00F3npedidos\\funcionesprincipales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B003D37-9370-4E1C-8EA6-2B22D5177D9B}|06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06aplicaci\u00F3npedidos\\archivos\\productos.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8B003D37-9370-4E1C-8EA6-2B22D5177D9B}|06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos.csproj|solutionrelative:06aplicaci\u00F3npedidos\\archivos\\productos.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06libpedidos\\classrepositoriomemproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|solutionrelative:06libpedidos\\classrepositoriomemproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06libpedidos\\ctrobtenproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|solutionrelative:06libpedidos\\ctrobtenproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06libpedidos\\intrepositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|solutionrelative:06libpedidos\\intrepositorioproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B003D37-9370-4E1C-8EA6-2B22D5177D9B}|06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06aplicaci\u00F3npedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B003D37-9370-4E1C-8EA6-2B22D5177D9B}|06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos.csproj|solutionrelative:06aplicaci\u00F3npedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06libpedidos\\classproductosprecios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|solutionrelative:06libpedidos\\classproductosprecios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06libpedidos\\registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|solutionrelative:06libpedidos\\registros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06libpedidos\\calculoprecios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|solutionrelative:06libpedidos\\calculoprecios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06libpedidos\\classproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|solutionrelative:06libpedidos\\classproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06libpedidos\\classclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|solutionrelative:06libpedidos\\classclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|c:\\users\\admin\\source\\repos\\06aplicaci\u00F3npedidos\\06libpedidos\\classpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6EA518B-5D03-4307-84F5-1861BFC01A9E}|06libPedidos\\06libPedidos.csproj|solutionrelative:06libpedidos\\classpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "classRepositorioArchivosProductos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classRepositorioArchivosProductos.cs",
+              "RelativeDocumentMoniker": "06libPedidos\\classRepositorioArchivosProductos.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classRepositorioArchivosProductos.cs",
+              "RelativeToolTip": "06libPedidos\\classRepositorioArchivosProductos.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAArwCQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T01:51:23.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos\\Archivos\\Productos.txt",
+              "RelativeDocumentMoniker": "06Aplicaci\u00F3nPedidos\\Archivos\\Productos.txt",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos\\Archivos\\Productos.txt",
+              "RelativeToolTip": "06Aplicaci\u00F3nPedidos\\Archivos\\Productos.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-08T01:46:20.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ctrObtenProductos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\ctrObtenProductos.cs",
+              "RelativeDocumentMoniker": "06libPedidos\\ctrObtenProductos.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\ctrObtenProductos.cs",
+              "RelativeToolTip": "06libPedidos\\ctrObtenProductos.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:30:05.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "classRepositorioMemProductos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classRepositorioMemProductos.cs",
+              "RelativeDocumentMoniker": "06libPedidos\\classRepositorioMemProductos.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classRepositorioMemProductos.cs",
+              "RelativeToolTip": "06libPedidos\\classRepositorioMemProductos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:07:45.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionesPrincipales.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos\\FuncionesPrincipales.cs",
+              "RelativeDocumentMoniker": "06Aplicaci\u00F3nPedidos\\FuncionesPrincipales.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos\\FuncionesPrincipales.cs",
+              "RelativeToolTip": "06Aplicaci\u00F3nPedidos\\FuncionesPrincipales.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAgwH4AAACPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:56:55.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IntRepositorioProductos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\IntRepositorioProductos.cs",
+              "RelativeDocumentMoniker": "06libPedidos\\IntRepositorioProductos.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\IntRepositorioProductos.cs",
+              "RelativeToolTip": "06libPedidos\\IntRepositorioProductos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T01:23:25.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos\\Program.cs",
+              "RelativeDocumentMoniker": "06Aplicaci\u00F3nPedidos\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06Aplicaci\u00F3nPedidos\\Program.cs",
+              "RelativeToolTip": "06Aplicaci\u00F3nPedidos\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:10:12.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalculoPrecios.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\CalculoPrecios.cs",
+              "RelativeDocumentMoniker": "06libPedidos\\CalculoPrecios.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\CalculoPrecios.cs",
+              "RelativeToolTip": "06libPedidos\\CalculoPrecios.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:46:34.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Registros.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\Registros.cs",
+              "RelativeDocumentMoniker": "06libPedidos\\Registros.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\Registros.cs",
+              "RelativeToolTip": "06libPedidos\\Registros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:30:56.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "classClientes.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classClientes.cs",
+              "RelativeDocumentMoniker": "06libPedidos\\classClientes.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classClientes.cs",
+              "RelativeToolTip": "06libPedidos\\classClientes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:09:09.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "classProductosPrecios.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classProductosPrecios.cs",
+              "RelativeDocumentMoniker": "06libPedidos\\classProductosPrecios.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classProductosPrecios.cs",
+              "RelativeToolTip": "06libPedidos\\classProductosPrecios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:39:20.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "classProductos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classProductos.cs",
+              "RelativeDocumentMoniker": "06libPedidos\\classProductos.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classProductos.cs",
+              "RelativeToolTip": "06libPedidos\\classProductos.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T08:28:34.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "classPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classPersonas.cs",
+              "RelativeDocumentMoniker": "06libPedidos\\classPersonas.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\06Aplicaci\u00F3nPedidos\\06libPedidos\\classPersonas.cs",
+              "RelativeToolTip": "06libPedidos\\classPersonas.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T07:59:43.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
